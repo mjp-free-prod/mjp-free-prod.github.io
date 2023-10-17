@@ -1,1 +1,0 @@
-const e={welcome:{type:0,body:{type:2,items:[{type:3}],static:"Willkommen"}},save:{type:0,body:{type:2,items:[{type:3}],static:"Speichern"}},search:{type:0,body:{type:2,items:[{type:3}],static:"Suchen"}}};export{e as default};
