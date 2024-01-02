@@ -1,1 +1,0 @@
-import{_ as s}from"./_plugin-vue_export-helper.c27b6911.js";import{o as t,c as e,N as r,B as c}from"./entry.3b733575.js";const a="_root_6bj02_1",n={root:a},l={};function _(o,f){return t(),e("div",{class:c(o.$style.root)},[r(o.$slots,"default")],2)}const d={$style:n},i=s(l,[["render",_],["__cssModules",d]]);export{i as A};
